@@ -72,14 +72,6 @@ python3.11 -m venv .venv
 - [.gitignore](.gitignore) 排除虚拟环境、下载工具、凭据、本地日志及 R 历史；合成数据、结果 CSV、PNG 和已执行 notebook 保留在仓库内。
 - [自动验证配置](.github/workflows/validate.yml) 在 GitHub 推送 / Pull Request 后运行；本地执行通过不代表远端 CI 已运行。
 
-## 发布到 GitHub
 
-请按 [发布说明](docs/PUBLISHING.md) 登录 GitHub、选择公开范围并推送。本地 Git 初始化或提交成功不等于 GitHub 上已建库；以实际远端 URL 和推送结果为准。
 
-## 许可证
 
-本仓库的代码、文档与合成示例数据采用 [MIT License](LICENSE)。复用时请保留许可证及版权声明。
-
-## 面试时如何介绍
-
-先讲一个业务问题，再解释指标与数据质量，展示可复算的表格和看板，最后说明数据限制和下一步如何验证。可以说“完成了 5 个合成电商数据分析练习”，不要将它们包装成真实公司经历或未经验证的增长成果。
