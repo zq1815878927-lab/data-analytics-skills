@@ -1,0 +1,29 @@
+# Local environments and downloaded tools
+.venv/
+venv/
+.tools/
+
+# Python / Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Credentials, personal sessions and editor state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.Rhistory
+.RData
+.Ruserdata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local execution logs; curated reports and project outputs remain tracked
+reports/logs/

@@ -1,0 +1,3 @@
+device,sessions,page_view_sessions,add_to_cart_sessions,checkout_sessions,purchase_sessions,purchase_conversion_pct
+Desktop,5,5,5,4,2,40.000000
+Mobile,5,5,4,3,3,60.000000

@@ -1,0 +1,152 @@
+{
+  "executed_at_utc": "2026-10-19T10:35:36+00:00",
+  "python": "3.11.5",
+  "platform": "Windows",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "3.0.3",
+    "matplotlib": "3.10.9",
+    "seaborn": "0.13.2",
+    "scipy": "1.15.2",
+    "scikit-learn": "1.6.1",
+    "jupyter": "1.1.1",
+    "notebook": "7.5.6",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.4",
+    "nbconvert": "7.17.1",
+    "ipykernel": "7.2.0"
+  },
+  "projects": [
+    {
+      "project": "ecommerce-sales-analysis",
+      "script": {
+        "status": "passed",
+        "seconds": 6.83,
+        "dashboard": "projects/ecommerce-sales-analysis/output/sales_dashboard.png",
+        "csv_files": [
+          "projects/ecommerce-sales-analysis/output/category_sales.csv",
+          "projects/ecommerce-sales-analysis/output/monthly_sales.csv",
+          "projects/ecommerce-sales-analysis/output/overview.csv",
+          "projects/ecommerce-sales-analysis/output/payment_methods.csv",
+          "projects/ecommerce-sales-analysis/output/region_sales.csv",
+          "projects/ecommerce-sales-analysis/output/top_products.csv"
+        ],
+        "source_sha256": "c05c593372165c155ec8f4104415f27f9aa10d8137873bacb566d53f6aba816b",
+        "data_sha256": {
+          "sales_data.csv": "b77680a07c40942a9fc3d72681ef0d1432659fc01b05d5cdc867e7109d402cea"
+        }
+      },
+      "notebook": {
+        "status": "passed",
+        "seconds": 5.56,
+        "executed_code_cells": 5,
+        "embedded_png_outputs": 1
+      }
+    },
+    {
+      "project": "user-behavior-analysis",
+      "script": {
+        "status": "passed",
+        "seconds": 6.93,
+        "dashboard": "projects/user-behavior-analysis/output/behavior_dashboard.png",
+        "csv_files": [
+          "projects/user-behavior-analysis/output/daily_active_users.csv",
+          "projects/user-behavior-analysis/output/device_conversion.csv",
+          "projects/user-behavior-analysis/output/event_counts.csv",
+          "projects/user-behavior-analysis/output/funnel_analysis.csv",
+          "projects/user-behavior-analysis/output/overview.csv",
+          "projects/user-behavior-analysis/output/session_activity.csv",
+          "projects/user-behavior-analysis/output/session_matches.csv"
+        ],
+        "source_sha256": "c305bb181a052708acfec96345cc5411a6295577fd586cb46b85ffea87d29d87",
+        "data_sha256": {
+          "user_events.csv": "a73d2e17e291209ca401ac7c4ad72ddd54818a9e87c4e43b1754af9617cb432d"
+        }
+      },
+      "notebook": {
+        "status": "passed",
+        "seconds": 6.66,
+        "executed_code_cells": 5,
+        "embedded_png_outputs": 1
+      }
+    },
+    {
+      "project": "marketing-campaign-evaluation",
+      "script": {
+        "status": "passed",
+        "seconds": 4.01,
+        "dashboard": "projects/marketing-campaign-evaluation/output/campaign_dashboard.png",
+        "csv_files": [
+          "projects/marketing-campaign-evaluation/output/ab_test_results.csv",
+          "projects/marketing-campaign-evaluation/output/age_group_performance.csv",
+          "projects/marketing-campaign-evaluation/output/campaign_metrics.csv",
+          "projects/marketing-campaign-evaluation/output/channel_performance.csv",
+          "projects/marketing-campaign-evaluation/output/overview.csv"
+        ],
+        "source_sha256": "c1b597a52a29b2d4a58fd28733dd9b8e7ca6cae690cbf157bf45cdf5f74256cd",
+        "data_sha256": {
+          "campaign_data.csv": "63259c27e23f105ff250e6a857b012db76fb3b19ad3b19d1d0c7c58460b8dfde"
+        }
+      },
+      "notebook": {
+        "status": "passed",
+        "seconds": 5.08,
+        "executed_code_cells": 5,
+        "embedded_png_outputs": 1
+      }
+    },
+    {
+      "project": "customer-segmentation",
+      "script": {
+        "status": "passed",
+        "seconds": 4.89,
+        "dashboard": "projects/customer-segmentation/output/segmentation_dashboard.png",
+        "csv_files": [
+          "projects/customer-segmentation/output/customer_segments.csv",
+          "projects/customer-segmentation/output/kmeans_clusters.csv",
+          "projects/customer-segmentation/output/kmeans_inertia.csv",
+          "projects/customer-segmentation/output/overview.csv",
+          "projects/customer-segmentation/output/rfm_segments.csv"
+        ],
+        "source_sha256": "07a1eca13dd91777aba4a67127d4c48fa144fc37bab41833f2877749c5660800",
+        "data_sha256": {
+          "customer_data.csv": "cec1057e54ec93a4c4497e62db6d2f0a0aba4d4a4721f512015aab99762d70f4"
+        }
+      },
+      "notebook": {
+        "status": "passed",
+        "seconds": 6.07,
+        "executed_code_cells": 5,
+        "embedded_png_outputs": 1
+      }
+    },
+    {
+      "project": "product-recommendation-analysis",
+      "script": {
+        "status": "passed",
+        "seconds": 4.8,
+        "dashboard": "projects/product-recommendation-analysis/output/recommendation_dashboard.png",
+        "csv_files": [
+          "projects/product-recommendation-analysis/output/association_rules.csv",
+          "projects/product-recommendation-analysis/output/frequent_itemsets.csv",
+          "projects/product-recommendation-analysis/output/item_similarity.csv",
+          "projects/product-recommendation-analysis/output/overview.csv",
+          "projects/product-recommendation-analysis/output/product_popularity.csv",
+          "projects/product-recommendation-analysis/output/similar_items.csv"
+        ],
+        "source_sha256": "1954dad1e2d5499476ea3364200d1ae50039479682df83b21a6ee770dd8c2cee",
+        "data_sha256": {
+          "transactions.csv": "4d3c5a5ef376a489fd2ce696ab6ba0ae96b8ee085b85db8477db9e1b9ae1d24d"
+        }
+      },
+      "notebook": {
+        "status": "passed",
+        "seconds": 5.86,
+        "executed_code_cells": 5,
+        "embedded_png_outputs": 1
+      }
+    }
+  ],
+  "status": "passed",
+  "notebooks_executed": true
+}

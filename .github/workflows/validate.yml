@@ -1,0 +1,42 @@
+name: Validate analytics portfolio
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 20
+    env:
+      MPLBACKEND: Agg
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install tested dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Run metric and edge-case tests
+        run: python -m unittest discover -s tests -v
+      - name: Execute five scripts and notebooks
+        run: python scripts/validate_portfolio.py
+      - name: Upload validation results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-validation-${{ matrix.os }}
+          path: |
+            reports/
+            projects/*/output/
+          if-no-files-found: warn

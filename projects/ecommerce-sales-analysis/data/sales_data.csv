@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_category,product_name,quantity,unit_price,region,payment_method
+10001,2024-01-05,C001,Electronics,Smartphone,1,2999.00,East,Credit Card
+10002,2024-01-08,C002,Fashion,T-Shirt,2,129.00,West,Alipay
+10003,2024-01-12,C003,Home,Coffee Maker,1,499.00,North,Credit Card
+10004,2024-01-15,C004,Electronics,Laptop,1,5999.00,South,WeChat Pay
+10005,2024-01-20,C005,Fashion,Jeans,1,399.00,East,Alipay
+10006,2024-01-22,C006,Home,Blender,1,259.00,West,Credit Card
+10007,2024-02-03,C007,Electronics,Headphones,1,899.00,North,WeChat Pay
+10008,2024-02-08,C008,Fashion,Dress,1,599.00,South,Alipay
+10009,2024-02-14,C009,Electronics,Smartwatch,1,1299.00,East,Credit Card
+10010,2024-02-18,C010,Home,Vacuum,1,1299.00,West,WeChat Pay
+10011,2024-03-05,C011,Fashion,Jacket,1,799.00,North,Alipay
+10012,2024-03-10,C012,Electronics,Tablet,1,3499.00,South,Credit Card
+10013,2024-03-15,C013,Home,Air Fryer,1,699.00,East,WeChat Pay
+10014,2024-03-20,C014,Fashion,Sneakers,1,599.00,West,Alipay
+10015,2024-04-02,C015,Electronics,Gaming Console,1,3999.00,North,Credit Card
+10016,2024-04-05,C016,Fashion,Backpack,1,299.00,South,WeChat Pay
+10017,2024-04-12,C017,Home,Robot Vacuum,1,2499.00,East,Alipay
+10018,2024-04-18,C018,Electronics,Camera,1,4599.00,West,Credit Card
+10019,2024-05-03,C019,Fashion,Sunglasses,1,299.00,North,WeChat Pay
+10020,2024-05-08,C020,Home,Dining Table,1,1899.00,South,Alipay
+10021,2024-05-15,C021,Electronics,Wireless Earbuds,1,699.00,East,Credit Card
+10022,2024-05-20,C022,Fashion,Watch,1,899.00,West,WeChat Pay
+10023,2024-06-05,C023,Home,Sofa,1,3499.00,North,Alipay
+10024,2024-06-10,C024,Electronics,Monitor,1,1299.00,South,Credit Card
+10025,2024-06-15,C025,Fashion,Skirt,1,249.00,East,WeChat Pay
+10026,2024-07-03,C026,Home,Desk Lamp,1,159.00,West,Alipay
+10027,2024-07-08,C027,Electronics,Bluetooth Speaker,1,399.00,North,Credit Card
+10028,2024-07-15,C028,Fashion,Hat,1,129.00,South,WeChat Pay
+10029,2024-08-02,C029,Home,Bed Sheet,1,349.00,East,Alipay
+10030,2024-08-10,C030,Electronics,Power Bank,1,199.00,West,Credit Card
+10031,2024-08-15,C031,Fashion,Scarf,1,159.00,North,WeChat Pay
+10032,2024-09-03,C032,Home,Air Purifier,1,1299.00,South,Credit Card
+10033,2024-09-08,C033,Electronics,External HDD,1,599.00,East,Alipay
+10034,2024-09-15,C034,Fashion,Boots,1,699.00,West,WeChat Pay
+10035,2024-10-05,C035,Home,Microwave,1,899.00,North,Credit Card
+10036,2024-10-10,C036,Electronics,Smart Home Hub,1,299.00,South,Alipay
+10037,2024-10-15,C037,Fashion,T-Shirt,3,129.00,East,WeChat Pay
+10038,2024-11-03,C038,Electronics,Laptop,2,5999.00,West,Credit Card
+10039,2024-11-08,C039,Home,Coffee Maker,2,499.00,North,Alipay
+10040,2024-11-10,C040,Fashion,Jacket,1,799.00,South,WeChat Pay
+10041,2024-11-15,C041,Electronics,Smartphone,2,2999.00,East,Credit Card
+10042,2024-11-20,C042,Home,Blender,1,259.00,West,Alipay
+10043,2024-11-25,C043,Fashion,Dress,1,599.00,North,WeChat Pay
+10044,2024-12-05,C044,Electronics,Headphones,3,899.00,South,Credit Card
+10045,2024-12-08,C045,Home,Vacuum,1,1299.00,East,Alipay
+10046,2024-12-15,C046,Fashion,Sneakers,2,599.00,West,WeChat Pay
+10047,2024-12-20,C047,Electronics,Laptop,1,5999.00,North,Credit Card
+10048,2024-12-25,C048,Home,Air Fryer,2,699.00,South,Alipay
+10049,2024-12-28,C049,Electronics,Smartwatch,1,1299.00,East,WeChat Pay
+10050,2024-12-30,C050,Fashion,Jeans,1,399.00,West,Credit Card

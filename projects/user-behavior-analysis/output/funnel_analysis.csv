@@ -1,0 +1,5 @@
+stage,sessions,eligible_sessions,step_conversion_pct,entry_conversion_pct
+page_view,10,10,100.000000,100.000000
+add_to_cart,9,10,90.000000,90.000000
+checkout,7,9,77.777778,70.000000
+purchase,5,7,71.428571,50.000000

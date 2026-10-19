@@ -1,0 +1,26 @@
+antecedents,consequents,support_count,antecedent_count,consequent_count,support,confidence,lift
+"[""Tablet Case""]","[""Tablet""]",2,2,3,0.133333,1.000000,5.000000
+"[""Tablet""]","[""Tablet Case""]",2,3,2,0.133333,0.666667,5.000000
+"[""Laptop Bag""]","[""Laptop""]",3,3,4,0.200000,1.000000,3.750000
+"[""Wireless Mouse""]","[""Laptop""]",3,3,4,0.200000,1.000000,3.750000
+"[""Laptop Bag"",""Wireless Mouse""]","[""Laptop""]",2,2,4,0.133333,1.000000,3.750000
+"[""Laptop""]","[""Laptop Bag""]",3,4,3,0.200000,0.750000,3.750000
+"[""Laptop""]","[""Wireless Mouse""]",3,4,3,0.200000,0.750000,3.750000
+"[""Laptop""]","[""Laptop Bag"",""Wireless Mouse""]",2,4,2,0.133333,0.500000,3.750000
+"[""Laptop"",""Laptop Bag""]","[""Wireless Mouse""]",2,3,3,0.133333,0.666667,3.333333
+"[""Laptop"",""Wireless Mouse""]","[""Laptop Bag""]",2,3,3,0.133333,0.666667,3.333333
+"[""Laptop Bag""]","[""Laptop"",""Wireless Mouse""]",2,3,3,0.133333,0.666667,3.333333
+"[""Laptop Bag""]","[""Wireless Mouse""]",2,3,3,0.133333,0.666667,3.333333
+"[""Wireless Mouse""]","[""Laptop"",""Laptop Bag""]",2,3,3,0.133333,0.666667,3.333333
+"[""Wireless Mouse""]","[""Laptop Bag""]",2,3,3,0.133333,0.666667,3.333333
+"[""Phone Case"",""Screen Protector""]","[""Smartphone""]",2,2,5,0.133333,1.000000,3.000000
+"[""Screen Protector""]","[""Phone Case"",""Smartphone""]",2,2,5,0.133333,1.000000,3.000000
+"[""Screen Protector""]","[""Smartphone""]",2,2,5,0.133333,1.000000,3.000000
+"[""Phone Case"",""Smartphone""]","[""Screen Protector""]",2,5,2,0.133333,0.400000,3.000000
+"[""Smartphone""]","[""Phone Case"",""Screen Protector""]",2,5,2,0.133333,0.400000,3.000000
+"[""Smartphone""]","[""Screen Protector""]",2,5,2,0.133333,0.400000,3.000000
+"[""Phone Case""]","[""Smartphone""]",5,7,5,0.333333,0.714286,2.142857
+"[""Smartphone""]","[""Phone Case""]",5,5,7,0.333333,1.000000,2.142857
+"[""Screen Protector""]","[""Phone Case""]",2,2,7,0.133333,1.000000,2.142857
+"[""Screen Protector"",""Smartphone""]","[""Phone Case""]",2,2,7,0.133333,1.000000,2.142857
+"[""Headphones""]","[""Phone Case""]",2,3,7,0.133333,0.666667,1.428571

@@ -1,0 +1,24 @@
+source_item,recommended_item,similarity
+Headphones,Phone Case,0.436436
+Headphones,Wireless Earbuds,0.408248
+Laptop,Laptop Bag,0.866025
+Laptop,Wireless Mouse,0.866025
+Laptop Bag,Laptop,0.866025
+Laptop Bag,Wireless Mouse,0.666667
+Phone Case,Smartphone,0.845154
+Phone Case,Screen Protector,0.534522
+Phone Case,Headphones,0.436436
+Screen Protector,Smartphone,0.632456
+Screen Protector,Phone Case,0.534522
+Smartphone,Phone Case,0.845154
+Smartphone,Screen Protector,0.632456
+Smartphone,Wireless Earbuds,0.316228
+Stylus Pen,Tablet,0.577350
+Tablet,Tablet Case,0.816497
+Tablet,Stylus Pen,0.577350
+Tablet Case,Tablet,0.816497
+Wireless Earbuds,Headphones,0.408248
+Wireless Earbuds,Smartphone,0.316228
+Wireless Earbuds,Phone Case,0.267261
+Wireless Mouse,Laptop,0.866025
+Wireless Mouse,Laptop Bag,0.666667

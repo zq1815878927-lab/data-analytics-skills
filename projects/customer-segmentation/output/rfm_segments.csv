@@ -1,0 +1,4 @@
+segment,count,avg_recency,avg_frequency,avg_monetary,total_monetary,customer_share_pct,monetary_share_pct
+Champions,8,11.125000,11.250000,61375.000000,491000,40.000000,82.272118
+Loyal,3,25.666667,5.000000,18333.333333,55000,15.000000,9.215818
+Others,9,120.555556,1.777778,5644.444444,50800,45.000000,8.512064

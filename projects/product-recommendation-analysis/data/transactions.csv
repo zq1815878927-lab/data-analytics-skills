@@ -1,0 +1,36 @@
+transaction_id,customer_id,product_id,product_name,category,price
+T001,C001,P001,Smartphone,Electronics,2999.00
+T001,C001,P002,Phone Case,Accessories,99.00
+T001,C001,P003,Screen Protector,Accessories,29.00
+T002,C002,P004,Laptop,Electronics,5999.00
+T002,C002,P005,Laptop Bag,Accessories,199.00
+T002,C002,P006,Wireless Mouse,Accessories,129.00
+T003,C003,P001,Smartphone,Electronics,2999.00
+T003,C003,P002,Phone Case,Accessories,99.00
+T004,C004,P007,Headphones,Electronics,899.00
+T004,C004,P008,Phone Case,Accessories,99.00
+T005,C005,P004,Laptop,Electronics,5999.00
+T005,C005,P005,Laptop Bag,Accessories,199.00
+T006,C006,P009,Tablet,Electronics,3499.00
+T006,C006,P010,Tablet Case,Accessories,149.00
+T007,C007,P001,Smartphone,Electronics,2999.00
+T007,C007,P002,Phone Case,Accessories,99.00
+T007,C007,P011,Wireless Earbuds,Electronics,699.00
+T008,C008,P004,Laptop,Electronics,5999.00
+T008,C008,P006,Wireless Mouse,Accessories,129.00
+T009,C009,P007,Headphones,Electronics,899.00
+T009,C009,P002,Phone Case,Accessories,99.00
+T010,C010,P009,Tablet,Electronics,3499.00
+T010,C010,P010,Tablet Case,Accessories,149.00
+T011,C011,P001,Smartphone,Electronics,2999.00
+T011,C011,P002,Phone Case,Accessories,99.00
+T012,C012,P004,Laptop,Electronics,5999.00
+T012,C012,P005,Laptop Bag,Accessories,199.00
+T012,C012,P006,Wireless Mouse,Accessories,129.00
+T013,C013,P007,Headphones,Electronics,899.00
+T013,C013,P011,Wireless Earbuds,Electronics,699.00
+T014,C014,P009,Tablet,Electronics,3499.00
+T014,C014,P012,Stylus Pen,Accessories,89.00
+T015,C015,P001,Smartphone,Electronics,2999.00
+T015,C015,P002,Phone Case,Accessories,99.00
+T015,C015,P003,Screen Protector,Accessories,29.00

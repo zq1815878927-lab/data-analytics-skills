@@ -1,0 +1,21 @@
+itemset,support_count,support
+"[""Phone Case""]",7,0.466667
+"[""Phone Case"",""Smartphone""]",5,0.333333
+"[""Smartphone""]",5,0.333333
+"[""Laptop""]",4,0.266667
+"[""Headphones""]",3,0.200000
+"[""Laptop"",""Laptop Bag""]",3,0.200000
+"[""Laptop"",""Wireless Mouse""]",3,0.200000
+"[""Laptop Bag""]",3,0.200000
+"[""Tablet""]",3,0.200000
+"[""Wireless Mouse""]",3,0.200000
+"[""Headphones"",""Phone Case""]",2,0.133333
+"[""Laptop"",""Laptop Bag"",""Wireless Mouse""]",2,0.133333
+"[""Laptop Bag"",""Wireless Mouse""]",2,0.133333
+"[""Phone Case"",""Screen Protector""]",2,0.133333
+"[""Phone Case"",""Screen Protector"",""Smartphone""]",2,0.133333
+"[""Screen Protector""]",2,0.133333
+"[""Screen Protector"",""Smartphone""]",2,0.133333
+"[""Tablet"",""Tablet Case""]",2,0.133333
+"[""Tablet Case""]",2,0.133333
+"[""Wireless Earbuds""]",2,0.133333

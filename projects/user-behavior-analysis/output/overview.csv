@@ -1,0 +1,2 @@
+input_event_rows,deduplicated_events,exact_duplicates_removed,unique_users,sessions,entry_sessions,completed_purchase_sessions
+35,35,0,10,10,10,5
